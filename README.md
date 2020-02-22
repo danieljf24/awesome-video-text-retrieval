@@ -5,14 +5,38 @@ A curated list of deep learning resources for video-text retrieval.
 ## Contributing
 Please feel free to [pull requests](https://github.com/danieljf24/awesome-video-text-retrieval/pulls) to add papers.
 
+Markdown format:
+
+```markdown
+- `[Conference/Trans Year]` Author. Title. Trans Year. [[paper]](link) [[code]](link) [[homepage]](link)
+```
+
 ## Table of Contents
+- [Popular Implementations](#popular-implementations)
+  - [PyTorch](#pytorch)
+  - [TensorFlow](#tensorflow)
+  - [Other](#other)
 - [Papers](#papers)
-  - [2019](#2019)
-  - [2018](#2018)
-  - [Before 2018](#before-2018)
+  - [2019](#2019) - [2018](#2018) - [Before](#before)
   - [Ad-hoc Video Search](#ad-hoc-video-search)
   - [Other Related](#other-related)
 - [Datasets](#datasets)
+
+
+## Popular Implementations
+
+### PyTorch
+- [dual_encoding](https://github.com/danieljf24/dual_encoding)
+- [w2vvpp](https://github.com/li-xirong/w2vvpp)
+- [Mixture-of-Embedding-Experts](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
+- [howto100m](https://github.com/antoine77340/howto100m)
+
+### TensorFlow
+- [jsfusion](https://github.com/yj-yu/lsmdc)
+
+### Others
+- [w2vv](https://github.com/danieljf24/w2vv)(Keras)
+
 
 ## Papers
 
@@ -35,7 +59,7 @@ Please feel free to [pull requests](https://github.com/danieljf24/awesome-video-
 * `[arXiv2018]` Antoine Miech, Ivan Laptev, Josef Sivic. Learning a Text-Video Embedding from Incomplete and Heterogeneous Data. arXiv preprint arXiv:1804.02516, 2018. [[paper]](https://arxiv.org/abs/1809.06181) [[code]](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
 
 
-### Before 2018
+### Before
 * `[CVPR2017]` Youngjae Yu, Hyungjin Ko, Jongwook Choi, Gunhee Kim. End-to-end concept word detection for video captioning, retrieval, and question answering. CVPR, 2017. [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf) [[code]](https://gitlab.com/fodrh1201/CT-SAN/tree/master)
 * `[ECCVW2016]` Mayu OtaniEmail, Yuta NakashimaEsa, RahtuJanne Heikkilä, Naokazu Yokoya. Learning joint representations of videos and sentences with web image search. ECCV Workshop, 2016. [[paper]](https://arxiv.org/pdf/1608.02367)
 * `[AAAI2015]` Ran Xu, Caiming Xiong, Wei Chen, Jason J Corso. Jointly modeling deep video and compositional text to bridge vision and language in a unified framework. AAAI, 2015. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9734/9563)
@@ -63,3 +87,11 @@ Please feel free to [pull requests](https://github.com/danieljf24/awesome-video-
 * `[DiDeMo]` Lisa Anne Hendricks, Oliver Wang, Eli Shechtman, Josef Sivic, Trevor Darrell, Bryan Russell. Localizing Moments in Video with Natural Language. ICCV, 2017. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hendricks_Localizing_Moments_in_ICCV_2017_paper.pdf) [[code]](https://github.com/LisaAnne/LocalizingMoments) 
 * `[HowTo100M]` Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, Makarand Tapaswi, Ivan Laptev, Josef Sivic. HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips. ICCV, 2019. [[homepage]](https://www.di.ens.fr/willow/research/howto100m/) [paper](https://arxiv.org/pdf/1906.03327.pdf)
 * `[VATEX]` Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang. VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research. ICCV, 2019. [[paper]](https://arxiv.org/abs/1904.03493) [[homepage]](http://vatex.org/main/index.html)
+
+
+
+## Licenses
+
+[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [danieljf24](https://github.com/danieljf24) all copyright and related or neighboring rights to this repository.
