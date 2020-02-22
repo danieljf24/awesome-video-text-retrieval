@@ -11,6 +11,7 @@ Markdown format:
 - `[Conference/Trans Year]` Author. Title. Trans Year. [[paper]](link) [[code]](link) [[homepage]](link)
 ```
 
+
 ## Table of Contents
 - [Popular Implementations](#popular-implementations)
   - [PyTorch](#pytorch)
@@ -21,6 +22,7 @@ Markdown format:
   - [Ad-hoc Video Search](#ad-hoc-video-search)
   - [Other Related](#other-related)
 - [Datasets](#datasets)
+
 
 
 ## Popular Implementations
@@ -36,6 +38,7 @@ Markdown format:
 
 #### Others
 - [w2vv](https://github.com/danieljf24/w2vv)(Keras)
+
 
 
 ## Papers
