@@ -69,7 +69,7 @@ Markdown format:
 
 
 ### Ad-hoc Video Search
-* For the papers targeting at ad-hoc video search in the context of [[TRECVID]](https://trecvid.nist.gov/), please refer to [[here]](https://github.com/li-xirong/video-retrieval)
+* For the papers targeting at ad-hoc video search in the context of [TRECVID](https://trecvid.nist.gov/), please refer to [here](https://github.com/li-xirong/video-retrieval).
 
 
 ### Other Related
