@@ -11,7 +11,7 @@ Please feel free to [pull requests](https://github.com/danieljf24/awesome-video-
   - [2018](#2018)
   - [Before 2018](#before-2018)
   - [Ad-hoc Video Search](#ad-hoc-video-search)
-  - [Other Related](#other related)
+  - [Other Related](#other-related)
 - [Datasets](#datasets)
 
 ## Papers
