@@ -12,7 +12,7 @@ Please feel free to [pull requests](https://github.com/danieljf24/awesome-video-
 ## Papers
 
 ### 2019
-* [CVPR2019] Jianfeng Dong, Xirong Li, Chaoxi Xu, Shouling Ji, Yuan He, Gang Yang, Xun Wang. Dual Encoding for Zero-Example Video Retrieval. CVPR, 2019. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Dual_Encoding_for_Zero-Example_Video_Retrieval_CVPR_2019_paper.pdf) [[code]](https://github.com/danieljf24/dual_encoding)
+* `[CVPR2019]` Jianfeng Dong, Xirong Li, Chaoxi Xu, Shouling Ji, Yuan He, Gang Yang, Xun Wang. Dual Encoding for Zero-Example Video Retrieval. CVPR, 2019. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Dual_Encoding_for_Zero-Example_Video_Retrieval_CVPR_2019_paper.pdf) [[code]](https://github.com/danieljf24/dual_encoding)
 * [CVPR2019] Yale Song, and Mohammad Soleymani. Polysemous visual-semantic embedding for cross-modal retrieval. CVPR, 2019. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Polysemous_Visual-Semantic_Embedding_for_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)
 * [ICCV2019] Michael Wray, Diane Larlus, Gabriela Csurka, and Dima Damen. Fine-Grained Action Retrieval Through Multiple Parts-of-Speech Embeddings. ICCV, 2019. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wray_Fine-Grained_Action_Retrieval_Through_Multiple_Parts-of-Speech_Embeddings_ICCV_2019_paper.pdf)
 * [ICCV2019] Yu Xiong, Qingqiu Huang, Lingfeng Guo, Hang Zhou, Bolei Zhou, and Dahua Lin. A Graph-Based Framework to Bridge Movies and Synopses. ICCV, 2019. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_A_Graph-Based_Framework_to_Bridge_Movies_and_Synopses_ICCV_2019_paper.pdf)
