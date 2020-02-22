@@ -8,12 +8,12 @@ Please feel free to [pull requests](https://github.com/danieljf24/awesome-video-
 Markdown format:
 
 ```markdown
-- `[Conference/Trans Year]` Author. Title. Trans Year. [[paper]](link) [[code]](link) [[homepage]](link)
+- `[Article Year]` Author. Title. Article, Year. [[paper]](link) [[code]](link) [[homepage]](link)
 ```
 
 
 ## Table of Contents
-- [Popular Implementations](#popular-implementations)
+- [Implementations](#implementations)
   - [PyTorch](#pytorch)
   - [TensorFlow](#tensorflow)
   - [Others](#others)
@@ -25,7 +25,7 @@ Markdown format:
 
 
 
-## Popular Implementations
+## Implementations
 
 #### PyTorch
 - [dual_encoding](https://github.com/danieljf24/dual_encoding)
