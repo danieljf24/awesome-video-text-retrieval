@@ -15,7 +15,7 @@ Markdown format:
 - [Popular Implementations](#popular-implementations)
   - [PyTorch](#pytorch)
   - [TensorFlow](#tensorflow)
-  - [Other](#other)
+  - [Others](#others)
 - [Papers](#papers)
   - [2019](#2019) - [2018](#2018) - [Before](#before)
   - [Ad-hoc Video Search](#ad-hoc-video-search)
@@ -25,16 +25,16 @@ Markdown format:
 
 ## Popular Implementations
 
-### PyTorch
+#### PyTorch
 - [dual_encoding](https://github.com/danieljf24/dual_encoding)
 - [w2vvpp](https://github.com/li-xirong/w2vvpp)
 - [Mixture-of-Embedding-Experts](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
 - [howto100m](https://github.com/antoine77340/howto100m)
 
-### TensorFlow
+#### TensorFlow
 - [jsfusion](https://github.com/yj-yu/lsmdc)
 
-### Others
+#### Others
 - [w2vv](https://github.com/danieljf24/w2vv)(Keras)
 
 
