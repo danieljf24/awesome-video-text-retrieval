@@ -7,6 +7,11 @@ Please feel free to [pull requests](https://github.com/danieljf24/awesome-video-
 
 ## Table of Contents
 - [Papers](#papers)
+  - [2019](#2019)
+  - [2018](#2018)
+  - [Before 2018](#before-2018)
+  - [Ad-hoc Video Search](#ad-hoc-video-search)
+  - [Other Related](#other related)
 - [Datasets](#datasets)
 
 ## Papers
@@ -36,14 +41,15 @@ Please feel free to [pull requests](https://github.com/danieljf24/awesome-video-
 * `[AAAI2015]` Ran Xu, Caiming Xiong, Wei Chen, Jason J Corso. Jointly modeling deep video and compositional text to bridge vision and language in a unified framework. AAAI, 2015. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9734/9563)
 
 
+### Ad-hoc Video Search
+* For the papers targeting at ad-hoc video search in the context of [[TRECVID]](https://trecvid.nist.gov/), please refer to [[here]](https://github.com/li-xirong/video-retrieval)
+
 
 ### Other Related
 * `[arXiv2020]` Tianhao Li, and Limin Wang. Learning Spatiotemporal Features via Video and Text Pair Discrimination. arXiv preprint arXiv:2001.05691, 2020. [[paper]](https://arxiv.org/pdf/2001.05691) 
 * `[arXiv2019]` Hazel Doughty, Ivan Laptev, Walterio Mayol-Cuevas, and Dima Damen. Action Modifiers: Learning from Adverbs in Instructional Videos. arXiv preprint arXiv:1912.06617, 2019. [[paper]](https://arxiv.org/abs/1912.06617)
 * `[arXiv2019]` Antoine Miech, Jean-Baptiste Alayrac, Lucas Smaira, Ivan Laptev, Josef Sivic, and Andrew Zisserman. End-to-End Learning of Visual Representations from Uncurated Instructional Videos. arXiv preprint arXiv:1912.06430, 2019. [[paper]](https://arxiv.org/abs/1912.06430)
 
-### Ad-hoc Video Search
-* For ad-hoc video search, please refer to [[here]](https://github.com/li-xirong/video-retrieval)
 
 
 
@@ -53,7 +59,7 @@ Please feel free to [pull requests](https://github.com/danieljf24/awesome-video-
 * `[TGIF]` Yuncheng Li, Yale Song, Liangliang Cao, Joel Tetreault, Larry Goldberg, Alejandro Jaimes, and Jiebo Luo. TGIF: A new dataset and benchmark on animated GIF description. CVPR, 2016. [[paper]](https://hal.archives-ouvertes.fr/hal-01854776/document) [[homepage]](http://raingo.github.io/TGIF-Release/)
 * `[AVS]` George Awad, et al. Trecvid 2016: Evaluating video search, video event detection, localization, and hyperlinking. TRECVID Workshop, 2016. [[paper]](https://hal.archives-ouvertes.fr/hal-01854776/document) [[dataset]](https://github.com/li-xirong/avs)
 * `[LSMDC]` Anna Rohrbach, Atousa Torabi, Marcus Rohrbach, Niket Tandon, Christopher Pal, Hugo Larochelle, Aaron Courville, and Bernt Schiele. Movie description. IJCV, 2017. [[paper]](https://link.springer.com/article/10.1007/s11263-016-0987-1) [[dataset]](https://sites.google.com/site/describingmovies/download)
-* `[ActivityNet Captions]` Krishna, Ranjay, et al. Dense-captioning events in videos. ICCV, 2017. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf) [[dataset]](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
+* `[ActivityNet Captions]` Ranjay Krishna, Kenji Hata, Frederic Ren, Li Fei-Fei, and Juan Carlos Niebles. Dense-captioning events in videos. ICCV, 2017. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf) [[dataset]](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
 * `[DiDeMo]` Lisa Anne Hendricks, Oliver Wang, Eli Shechtman, Josef Sivic, Trevor Darrell, Bryan Russell. Localizing Moments in Video with Natural Language. ICCV, 2017. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hendricks_Localizing_Moments_in_ICCV_2017_paper.pdf) [[code]](https://github.com/LisaAnne/LocalizingMoments) 
 * `[HowTo100M]` Antoine Miech, Dimitri Zhukov, Jean-Baptiste Alayrac, Makarand Tapaswi, Ivan Laptev, Josef Sivic. HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips. ICCV, 2019. [[homepage]](https://www.di.ens.fr/willow/research/howto100m/) [paper](https://arxiv.org/pdf/1906.03327.pdf)
 * `[VATEX]` Xin Wang, Jiawei Wu, Junkun Chen, Lei Li, Yuan-Fang Wang, William Yang Wang. VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research. ICCV, 2019. [[paper]](https://arxiv.org/abs/1904.03493) [[homepage]](http://vatex.org/main/index.html)
