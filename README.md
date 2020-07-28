@@ -43,37 +43,37 @@ Markdown format:
 
 ## Papers
 
-* `[Yang et al. SIGIR2020]` Tree-Augmented Cross-Modal Encoding for Complex-Query
+* `[Yang et al. SIGIR20]` Tree-Augmented Cross-Modal Encoding for Complex-Query
 Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401151) 
-* `[Doughty et al. CVPR2020]` Action Modifiers: Learning from Adverbs in Instructional Videos. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doughty_Action_Modifiers_Learning_From_Adverbs_in_Instructional_Videos_CVPR_2020_paper.pdf)
-* `[Chen et al. CVPR2020]` Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Fine-Grained_Video-Text_Retrieval_With_Hierarchical_Graph_Reasoning_CVPR_2020_paper.pdf)
+* `[Doughty et al. CVPR20]` Action Modifiers: Learning from Adverbs in Instructional Videos. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doughty_Action_Modifiers_Learning_From_Adverbs_in_Instructional_Videos_CVPR_2020_paper.pdf)
+* `[Chen et al. CVPR20]` Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Fine-Grained_Video-Text_Retrieval_With_Hierarchical_Graph_Reasoning_CVPR_2020_paper.pdf)
 * `[CVPR2020]`
-* `[Zhu et al. CVPR2020]` ActBERT: Learning Global-Local Video-Text Representations. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.pdf)
+* `[Zhu et al. CVPR20]` ActBERT: Learning Global-Local Video-Text Representations. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.pdf)
 
 
 ### 2019
-* `[Dong et al. CVPR2019]` Dual Encoding for Zero-Example Video Retrieval. CVPR, 2019. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Dual_Encoding_for_Zero-Example_Video_Retrieval_CVPR_2019_paper.pdf) [[code]](https://github.com/danieljf24/dual_encoding)
-* `[Song et al. CVPR2019]` Polysemous visual-semantic embedding for cross-modal retrieval. CVPR, 2019. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Polysemous_Visual-Semantic_Embedding_for_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)
-* `[Wray et al. ICCV2019]` Fine-Grained Action Retrieval Through Multiple Parts-of-Speech Embeddings. ICCV, 2019. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wray_Fine-Grained_Action_Retrieval_Through_Multiple_Parts-of-Speech_Embeddings_ICCV_2019_paper.pdf)
-* `[Xiong et al. ICCV2019]` A Graph-Based Framework to Bridge Movies and Synopses. ICCV, 2019. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_A_Graph-Based_Framework_to_Bridge_Movies_and_Synopses_ICCV_2019_paper.pdf)
-* `[Li et al. ACMMM2019]` W2VV++ Fully Deep Learning for Ad-hoc Video Search. ACM Multimedia, 2019. [[paper]](http://lixirong.net/pub/mm2019-w2vvpp.pdf) [[code]](https://github.com/li-xirong/w2vvpp)
-* `[Liu et al. BMVC2019]` Use What You Have: Video Retrieval Using Representations From Collaborative Experts. MBVC, 2019. [[paper]](https://arxiv.org/abs/1907.13487) [[code]](https://github.com/albanie/collaborative-experts)
-* `[Choi et al. BigMM2019]` From Intra-Modal to Inter-Modal Space: Multi-Task Learning of Shared Representations for Cross-Modal Retrieval. International Conference on Multimedia Big Data, 2019. [[paper]](https://repository.ubn.ru.nl/bitstream/handle/2066/209215/209215.pdf?sequence=1)
+* `[Dong et al. CVPR19]` Dual Encoding for Zero-Example Video Retrieval. CVPR, 2019. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Dual_Encoding_for_Zero-Example_Video_Retrieval_CVPR_2019_paper.pdf) [[code]](https://github.com/danieljf24/dual_encoding)
+* `[Song et al. CVPR19]` Polysemous visual-semantic embedding for cross-modal retrieval. CVPR, 2019. [[paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Polysemous_Visual-Semantic_Embedding_for_Cross-Modal_Retrieval_CVPR_2019_paper.pdf)
+* `[Wray et al. ICCV19]` Fine-Grained Action Retrieval Through Multiple Parts-of-Speech Embeddings. ICCV, 2019. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wray_Fine-Grained_Action_Retrieval_Through_Multiple_Parts-of-Speech_Embeddings_ICCV_2019_paper.pdf)
+* `[Xiong et al. ICCV19]` A Graph-Based Framework to Bridge Movies and Synopses. ICCV, 2019. [[paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xiong_A_Graph-Based_Framework_to_Bridge_Movies_and_Synopses_ICCV_2019_paper.pdf)
+* `[Li et al. ACMMM19]` W2VV++ Fully Deep Learning for Ad-hoc Video Search. ACM Multimedia, 2019. [[paper]](http://lixirong.net/pub/mm2019-w2vvpp.pdf) [[code]](https://github.com/li-xirong/w2vvpp)
+* `[Liu et al. BMVC19]` Use What You Have: Video Retrieval Using Representations From Collaborative Experts. MBVC, 2019. [[paper]](https://arxiv.org/abs/1907.13487) [[code]](https://github.com/albanie/collaborative-experts)
+* `[Choi et al. BigMM19]` From Intra-Modal to Inter-Modal Space: Multi-Task Learning of Shared Representations for Cross-Modal Retrieval. International Conference on Multimedia Big Data, 2019. [[paper]](https://repository.ubn.ru.nl/bitstream/handle/2066/209215/209215.pdf?sequence=1)
 
 
 ### 2018
-* `[Dong et al. TMM2018]` Predicting visual features from text for image and video caption retrieval. IEEE Transactions on Multimedia, 2018. [[paper]](https://arxiv.org/pdf/1709.01362) [[code]](https://github.com/danieljf24/w2vv)
-* `[Zhang et al. ECCV2018]` Cross-Modal and Hierarchical Modeling of Video and Text. ECCV, 2018. [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bowen_Zhang_Cross-Modal_and_Hierarchical_ECCV_2018_paper.pdf) [[code]](https://github.com/zbwglory/CMHSE)
-* `[Yu et al. ECCV2018]` A Joint Sequence Fusion Model for Video Question Answering and Retrieval. ECCV, 2018. [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Youngjae_Yu_A_Joint_Sequence_ECCV_2018_paper.pdf)
-* `[Shao et al. ECCV2018]` Find and focus: Retrieve and localize video events with natural language queries. ECCV, 2018. [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dian_SHAO_Find_and_Focus_ECCV_2018_paper.pdf)
-* `[Mithun et al. ICMR2018]` Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieval. ICMR, 2018. [[paper]](https://dl.acm.org/citation.cfm?id=3206064) [[code]](https://github.com/niluthpol/multimodal_vtt)
-* `[Miech et al. arXiv2018]` Learning a Text-Video Embedding from Incomplete and Heterogeneous Data. arXiv preprint arXiv:1804.02516, 2018. [[paper]](https://arxiv.org/abs/1809.06181) [[code]](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
+* `[Dong et al. TMM18]` Predicting visual features from text for image and video caption retrieval. IEEE Transactions on Multimedia, 2018. [[paper]](https://arxiv.org/pdf/1709.01362) [[code]](https://github.com/danieljf24/w2vv)
+* `[Zhang et al. ECCV18]` Cross-Modal and Hierarchical Modeling of Video and Text. ECCV, 2018. [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Bowen_Zhang_Cross-Modal_and_Hierarchical_ECCV_2018_paper.pdf) [[code]](https://github.com/zbwglory/CMHSE)
+* `[Yu et al. ECCV18]` A Joint Sequence Fusion Model for Video Question Answering and Retrieval. ECCV, 2018. [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Youngjae_Yu_A_Joint_Sequence_ECCV_2018_paper.pdf)
+* `[Shao et al. ECCV18]` Find and focus: Retrieve and localize video events with natural language queries. ECCV, 2018. [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Dian_SHAO_Find_and_Focus_ECCV_2018_paper.pdf)
+* `[Mithun et al. ICMR18]` Learning Joint Embedding with Multimodal Cues for Cross-Modal Video-Text Retrieval. ICMR, 2018. [[paper]](https://dl.acm.org/citation.cfm?id=3206064) [[code]](https://github.com/niluthpol/multimodal_vtt)
+* `[Miech et al. arXiv18]` Learning a Text-Video Embedding from Incomplete and Heterogeneous Data. arXiv preprint arXiv:1804.02516, 2018. [[paper]](https://arxiv.org/abs/1809.06181) [[code]](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
 
 
 ### Before
-* `[Yu et al. CVPR2017]` End-to-end concept word detection for video captioning, retrieval, and question answering. CVPR, 2017. [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf) [[code]](https://gitlab.com/fodrh1201/CT-SAN/tree/master)
+* `[Yu et al. CVPR17]` End-to-end concept word detection for video captioning, retrieval, and question answering. CVPR, 2017. [[paper]](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf) [[code]](https://gitlab.com/fodrh1201/CT-SAN/tree/master)
 * `[OtaniEmail et al. ECCVW2016]` Learning joint representations of videos and sentences with web image search. ECCV Workshop, 2016. [[paper]](https://arxiv.org/pdf/1608.02367)
-* `[Xu et al. AAAI2015]` Jointly modeling deep video and compositional text to bridge vision and language in a unified framework. AAAI, 2015. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9734/9563)
+* `[Xu et al. AAAI15]` Jointly modeling deep video and compositional text to bridge vision and language in a unified framework. AAAI, 2015. [[paper]](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9734/9563)
 
 
 ### Ad-hoc Video Search
@@ -81,8 +81,8 @@ Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/33972
 
 
 ### Other Related
-* `[Li et al. arXiv2020]` Learning Spatiotemporal Features via Video and Text Pair Discrimination. arXiv preprint arXiv:2001.05691, 2020. [[paper]](https://arxiv.org/abs/2001.05691) 
-* `[Miech et al. CVPR2020]` End-to-End Learning of Visual Representations from Uncurated Instructional Videos. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Miech_End-to-End_Learning_of_Visual_Representations_From_Uncurated_Instructional_Videos_CVPR_2020_paper.pdf)
+* `[Li et al. arXiv20]` Learning Spatiotemporal Features via Video and Text Pair Discrimination. arXiv preprint arXiv:2001.05691, 2020. [[paper]](https://arxiv.org/abs/2001.05691) 
+* `[Miech et al. CVPR20]` End-to-End Learning of Visual Representations from Uncurated Instructional Videos. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Miech_End-to-End_Learning_of_Visual_Representations_From_Uncurated_Instructional_Videos_CVPR_2020_paper.pdf)
 
 
 
