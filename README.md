@@ -8,7 +8,7 @@ Please feel free to [pull requests](https://github.com/danieljf24/awesome-video-
 Markdown format:
 
 ```markdown
-- `[First author et al. Article Year]` Title. Article, Year. [[paper]](link) [[code]](link) [[homepage]](link)
+- `[Author Journal/Booktitle Year]` Title. Journal/Booktitle, Year. [[paper]](link) [[code]](link) [[homepage]](link)
 ```
 
 
@@ -18,7 +18,7 @@ Markdown format:
   - [TensorFlow](#tensorflow)
   - [Others](#others)
 - [Papers](#papers)
-  - [2020](#2020) [2019](#2019) - [2018](#2018) - [Before](#before)
+  - [2020](#2020) - [2019](#2019) - [2018](#2018) - [Before](#before)
   - [Ad-hoc Video Search](#ad-hoc-video-search)
   - [Other Related](#other-related)
 - [Datasets](#datasets)
@@ -43,6 +43,7 @@ Markdown format:
 
 ## Papers
 
+### 2020
 * `[Yang et al. SIGIR20]` Tree-Augmented Cross-Modal Encoding for Complex-Query
 Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401151) 
 * `[Doughty et al. CVPR20]` Action Modifiers: Learning from Adverbs in Instructional Videos. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doughty_Action_Modifiers_Learning_From_Adverbs_in_Instructional_Videos_CVPR_2020_paper.pdf)
@@ -95,7 +96,7 @@ Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/33972
 * `[LSMDC]` Rohrbach et al. Movie description. IJCV, 2017. [[paper]](https://link.springer.com/article/10.1007/s11263-016-0987-1) [[dataset]](https://sites.google.com/site/describingmovies/download)
 * `[ActivityNet Captions]` Krishna et al. Dense-captioning events in videos. ICCV, 2017. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Krishna_Dense-Captioning_Events_in_ICCV_2017_paper.pdf) [[dataset]](https://cs.stanford.edu/people/ranjaykrishna/densevid/)
 * `[DiDeMo]` Hendricks et al. Localizing Moments in Video with Natural Language. ICCV, 2017. [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Hendricks_Localizing_Moments_in_ICCV_2017_paper.pdf) [[code]](https://github.com/LisaAnne/LocalizingMoments) 
-* `[HowTo100M]` Miech et al. HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips. ICCV, 2019. [[homepage]](https://www.di.ens.fr/willow/research/howto100m/) [paper](https://arxiv.org/pdf/1906.03327.pdf)
+* `[HowTo100M]` Miech et al. HowTo100M: Learning a Text-Video Embedding by Watching Hundred Million Narrated Video Clips. ICCV, 2019. [[paper]](https://arxiv.org/pdf/1906.03327.pdf) [[homepage]](https://www.di.ens.fr/willow/research/howto100m/) 
 * `[VATEX]` Wang et al. VATEX: A Large-Scale, High-Quality Multilingual Dataset for Video-and-Language Research. ICCV, 2019. [[paper]](https://arxiv.org/abs/1904.03493) [[homepage]](http://vatex.org/main/index.html)
 
 
