@@ -48,7 +48,6 @@ Markdown format:
 Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401151) 
 * `[Doughty et al. CVPR20]` Action Modifiers: Learning from Adverbs in Instructional Videos. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doughty_Action_Modifiers_Learning_From_Adverbs_in_Instructional_Videos_CVPR_2020_paper.pdf)
 * `[Chen et al. CVPR20]` Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Fine-Grained_Video-Text_Retrieval_With_Hierarchical_Graph_Reasoning_CVPR_2020_paper.pdf)
-* `[CVPR2020]`
 * `[Zhu et al. CVPR20]` ActBERT: Learning Global-Local Video-Text Representations. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.pdf)
 
 
