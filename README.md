@@ -48,6 +48,7 @@ Markdown format:
 * `[Yang et al. SIGIR20]` Tree-Augmented Cross-Modal Encoding for Complex-Query
 Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401151) 
 * `[Gabeur et al. ECCV20]` Multi-modal Transformer for Video Retrieval. ECCV, 2020. [[paper]](https://arxiv.org/abs/2007.10639) 
+* `[Wang et al. TMM20]` Learning Coarse-to-Fine Graph Neural Networks for Video-Text Retrieval. IEEE Transactions on Multimedia, 2020. [[paper]](https://ieeexplore.ieee.org/abstract/document/9147074)
 * `[Wu et al. ACMMM20]` Interpretable Embedding for Ad-Hoc Video Search. ACM Multimedia, 2020. [[paper]](http://vireo.cs.cityu.edu.hk/papers/MM2020_dual_task_video_retrieval.pdf) 
 * `[Doughty et al. CVPR20]` Action Modifiers: Learning from Adverbs in Instructional Videos. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doughty_Action_Modifiers_Learning_From_Adverbs_in_Instructional_Videos_CVPR_2020_paper.pdf)
 * `[Chen et al. CVPR20]` Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Fine-Grained_Video-Text_Retrieval_With_Hierarchical_Graph_Reasoning_CVPR_2020_paper.pdf)
