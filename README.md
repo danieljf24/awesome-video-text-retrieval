@@ -32,6 +32,8 @@ Markdown format:
 - [w2vvpp](https://github.com/li-xirong/w2vvpp)
 - [Mixture-of-Embedding-Experts](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
 - [howto100m](https://github.com/antoine77340/howto100m)
+- [hgr](https://github.com/cshizhe/hgr_v2t)
+- [coot](https://github.com/gingsi/coot-videotext)
 
 #### TensorFlow
 - [jsfusion](https://github.com/yj-yu/lsmdc)
@@ -39,20 +41,25 @@ Markdown format:
 #### Others
 - [w2vv](https://github.com/danieljf24/w2vv)(Keras)
 
+#### Useful Toolkit
+- [Extracting CNN features from video frames by MXNet](https://github.com/xuchaoxi/video-cnn-feat)
 
 
 ## Papers
 
 ### 2020
 * `[Dong et al. ARXIV20]` Hybrid Space Learning for Language-based Video Retrieval. arXiv:2009.05381, 2020. [[paper]](https://arxiv.org/abs/2009.05381) [[code]](https://github.com/danieljf24/dual_encoding) 
-* `[Yang et al. SIGIR20]` Tree-Augmented Cross-Modal Encoding for Complex-Query
-Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401151) 
+* `[Yang et al. SIGIR20]` Tree-Augmented Cross-Modal Encoding for Complex-Query Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401151) 
+* `[Ging et al. NeurIPS20]` COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning. NeurIPS, 2020. [[paper]](https://proceedings.neurips.cc/paper/2020/file/ff0abbcc0227c9124a804b084d161a2d-Paper.pdf)  [[code]](https://github.com/gingsi/coot-videotext)
 * `[Gabeur et al. ECCV20]` Multi-modal Transformer for Video Retrieval. ECCV, 2020. [[paper]](https://arxiv.org/abs/2007.10639) 
 * `[Wang et al. TMM20]` Learning Coarse-to-Fine Graph Neural Networks for Video-Text Retrieval. IEEE Transactions on Multimedia, 2020. [[paper]](https://ieeexplore.ieee.org/abstract/document/9147074)
+* `[Chen et al. TMM20]` Interclass-Relativity-Adaptive Metric Learning for Cross-Modal Matching and Beyond. IEEE Transactions on Multimedia, 2020. [[paper]](https://ieeexplore.ieee.org/abstract/document/9178501)
 * `[Wu et al. ACMMM20]` Interpretable Embedding for Ad-Hoc Video Search. ACM Multimedia, 2020. [[paper]](http://vireo.cs.cityu.edu.hk/papers/MM2020_dual_task_video_retrieval.pdf) 
+* `[Feng et al. IJCAI20]` Exploiting Visual Semantic Reasoning for Video-Text Retrieval. IJCAI, 2020. [[paper]](https://arxiv.org/abs/2006.08889) 
 * `[Doughty et al. CVPR20]` Action Modifiers: Learning from Adverbs in Instructional Videos. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doughty_Action_Modifiers_Learning_From_Adverbs_in_Instructional_Videos_CVPR_2020_paper.pdf)
 * `[Chen et al. CVPR20]` Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Fine-Grained_Video-Text_Retrieval_With_Hierarchical_Graph_Reasoning_CVPR_2020_paper.pdf)
 * `[Zhu et al. CVPR20]` ActBERT: Learning Global-Local Video-Text Representations. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.pdf)
+* `[Zhao et al. ICME20]` Stacked Convolutional Deep Encoding Network For Video-Text Retrieval. ICME, 2020. [[paper]](https://arxiv.org/pdf/2004.04959.pdf)
 
 
 ### 2019
