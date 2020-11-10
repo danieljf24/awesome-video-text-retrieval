@@ -56,6 +56,7 @@ Markdown format:
 * `[Chen et al. TMM20]` Interclass-Relativity-Adaptive Metric Learning for Cross-Modal Matching and Beyond. IEEE Transactions on Multimedia, 2020. [[paper]](https://ieeexplore.ieee.org/abstract/document/9178501)
 * `[Wu et al. ACMMM20]` Interpretable Embedding for Ad-Hoc Video Search. ACM Multimedia, 2020. [[paper]](http://vireo.cs.cityu.edu.hk/papers/MM2020_dual_task_video_retrieval.pdf) 
 * `[Feng et al. IJCAI20]` Exploiting Visual Semantic Reasoning for Video-Text Retrieval. IJCAI, 2020. [[paper]](https://arxiv.org/abs/2006.08889) 
+* `[Wei et al. CVPR20]` Universal Weighting Metric Learning for Cross-Modal Retrieval. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wei_Universal_Weighting_Metric_Learning_for_Cross-Modal_Matching_CVPR_2020_paper.pdf)
 * `[Doughty et al. CVPR20]` Action Modifiers: Learning from Adverbs in Instructional Videos. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Doughty_Action_Modifiers_Learning_From_Adverbs_in_Instructional_Videos_CVPR_2020_paper.pdf)
 * `[Chen et al. CVPR20]` Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Fine-Grained_Video-Text_Retrieval_With_Hierarchical_Graph_Reasoning_CVPR_2020_paper.pdf)
 * `[Zhu et al. CVPR20]` ActBERT: Learning Global-Local Video-Text Representations. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.pdf)
