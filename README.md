@@ -34,6 +34,7 @@ Markdown format:
 - [howto100m](https://github.com/antoine77340/howto100m)
 - [hgr](https://github.com/cshizhe/hgr_v2t)
 - [coot](https://github.com/gingsi/coot-videotext)
+- [mmt](https://github.com/gabeur/mmt)
 
 #### TensorFlow
 - [jsfusion](https://github.com/yj-yu/lsmdc)
@@ -47,11 +48,15 @@ Markdown format:
 
 ## Papers
 
+### 2021
+* `[Patrick et al. ICLR21]` Support-set Bottlenecks for Video-text Representation Learning. ICLR, 2021. [[paper]](https://arxiv.org/abs/2010.02824)
+
 ### 2020
 * `[Dong et al. ARXIV20]` Hybrid Space Learning for Language-based Video Retrieval. arXiv:2009.05381, 2020. [[paper]](https://arxiv.org/abs/2009.05381) [[code]](https://github.com/danieljf24/dual_encoding) 
 * `[Yang et al. SIGIR20]` Tree-Augmented Cross-Modal Encoding for Complex-Query Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401151) 
 * `[Ging et al. NeurIPS20]` COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning. NeurIPS, 2020. [[paper]](https://proceedings.neurips.cc/paper/2020/file/ff0abbcc0227c9124a804b084d161a2d-Paper.pdf)  [[code]](https://github.com/gingsi/coot-videotext)
-* `[Gabeur et al. ECCV20]` Multi-modal Transformer for Video Retrieval. ECCV, 2020. [[paper]](https://arxiv.org/abs/2007.10639) 
+* `[Gabeur et al. ECCV20]` Multi-modal Transformer for Video Retrieval. ECCV, 2020. [[paper]](https://arxiv.org/abs/2007.10639) [[code]](https://github.com/gabeur/mmt)[[homepage]](link)
+* `[Li et al. TMM20]` SEA: Sentence Encoder Assembly for Video Retrieval by Textual Queries. IEEE Transactions on Multimedia, 2020. [[paper]](https://arxiv.org/abs/2011.12091)
 * `[Wang et al. TMM20]` Learning Coarse-to-Fine Graph Neural Networks for Video-Text Retrieval. IEEE Transactions on Multimedia, 2020. [[paper]](https://ieeexplore.ieee.org/abstract/document/9147074)
 * `[Chen et al. TMM20]` Interclass-Relativity-Adaptive Metric Learning for Cross-Modal Matching and Beyond. IEEE Transactions on Multimedia, 2020. [[paper]](https://ieeexplore.ieee.org/abstract/document/9178501)
 * `[Wu et al. ACMMM20]` Interpretable Embedding for Ad-Hoc Video Search. ACM Multimedia, 2020. [[paper]](http://vireo.cs.cityu.edu.hk/papers/MM2020_dual_task_video_retrieval.pdf) 
