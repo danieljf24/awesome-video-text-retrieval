@@ -66,6 +66,7 @@ Markdown format:
 * `[Chen et al. CVPR20]` Fine-grained Video-Text Retrieval with Hierarchical Graph Reasoning. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Fine-Grained_Video-Text_Retrieval_With_Hierarchical_Graph_Reasoning_CVPR_2020_paper.pdf)
 * `[Zhu et al. CVPR20]` ActBERT: Learning Global-Local Video-Text Representations. CVPR, 2020. [[paper]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhu_ActBERT_Learning_Global-Local_Video-Text_Representations_CVPR_2020_paper.pdf)
 * `[Zhao et al. ICME20]` Stacked Convolutional Deep Encoding Network For Video-Text Retrieval. ICME, 2020. [[paper]](https://arxiv.org/pdf/2004.04959.pdf)
+* `[Luo et al. ARXIV20]` UniVL: A Unified Video and Language Pre-Training Model for Multimodal Understanding and Generation. arXiv:2002.06353, 2020. [[paper]](https://arxiv.org/abs/2002.06353v3)
 
 
 ### 2019
