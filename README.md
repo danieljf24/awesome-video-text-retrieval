@@ -18,7 +18,7 @@ Markdown format:
   - [TensorFlow](#tensorflow)
   - [Others](#others)
 - [Papers](#papers)
-  - [2020](#2020) - [2019](#2019) - [2018](#2018) - [Before](#before)
+  - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [Before](#before)
   - [Ad-hoc Video Search](#ad-hoc-video-search)
   - [Other Related](#other-related)
 - [Datasets](#datasets)
@@ -28,10 +28,12 @@ Markdown format:
 ## Implementations
 
 #### PyTorch
+- [hybrid_space](https://github.com/danieljf24/hybrid_space)
 - [dual_encoding](https://github.com/danieljf24/dual_encoding)
 - [w2vvpp](https://github.com/li-xirong/w2vvpp)
 - [Mixture-of-Embedding-Experts](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
 - [howto100m](https://github.com/antoine77340/howto100m)
+- [collaborative]https://github.com/albanie/collaborative-experts
 - [hgr](https://github.com/cshizhe/hgr_v2t)
 - [coot](https://github.com/gingsi/coot-videotext)
 - [mmt](https://github.com/gabeur/mmt)
@@ -49,10 +51,10 @@ Markdown format:
 ## Papers
 
 ### 2021
+* `[Dong et al. TPAMI21]` Dual Encoding for Video Retrieval by Text. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020. [[paper]](https://arxiv.org/abs/2009.05381) [[code]](https://github.com/danieljf24/hybrid_space) 
 * `[Patrick et al. ICLR21]` Support-set Bottlenecks for Video-text Representation Learning. ICLR, 2021. [[paper]](https://arxiv.org/abs/2010.02824)
 
 ### 2020
-* `[Dong et al. ARXIV20]` Hybrid Space Learning for Language-based Video Retrieval. arXiv:2009.05381, 2020. [[paper]](https://arxiv.org/abs/2009.05381) [[code]](https://github.com/danieljf24/dual_encoding) 
 * `[Yang et al. SIGIR20]` Tree-Augmented Cross-Modal Encoding for Complex-Query Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401151) 
 * `[Ging et al. NeurIPS20]` COOT: Cooperative Hierarchical Transformer for Video-Text Representation Learning. NeurIPS, 2020. [[paper]](https://proceedings.neurips.cc/paper/2020/file/ff0abbcc0227c9124a804b084d161a2d-Paper.pdf)  [[code]](https://github.com/gingsi/coot-videotext)
 * `[Gabeur et al. ECCV20]` Multi-modal Transformer for Video Retrieval. ECCV, 2020. [[paper]](https://arxiv.org/abs/2007.10639) [[code]](https://github.com/gabeur/mmt)[[homepage]](link)
