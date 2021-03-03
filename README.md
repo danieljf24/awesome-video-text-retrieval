@@ -33,7 +33,7 @@ Markdown format:
 - [w2vvpp](https://github.com/li-xirong/w2vvpp)
 - [Mixture-of-Embedding-Experts](https://github.com/antoine77340/Mixture-of-Embedding-Experts)
 - [howto100m](https://github.com/antoine77340/howto100m)
-- [collaborative]https://github.com/albanie/collaborative-experts
+- [collaborative](https://github.com/albanie/collaborative-experts)
 - [hgr](https://github.com/cshizhe/hgr_v2t)
 - [coot](https://github.com/gingsi/coot-videotext)
 - [mmt](https://github.com/gabeur/mmt)
