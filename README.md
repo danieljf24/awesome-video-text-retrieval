@@ -51,8 +51,11 @@ Markdown format:
 ## Papers
 
 ### 2021
-* `[Dong et al. TPAMI21]` Dual Encoding for Video Retrieval by Text. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2020. [[paper]](https://arxiv.org/abs/2009.05381) [[code]](https://github.com/danieljf24/hybrid_space) 
+* `[Dong et al. TPAMI21]` Dual Encoding for Video Retrieval by Text. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [[paper]](https://arxiv.org/abs/2009.05381) [[code]](https://github.com/danieljf24/hybrid_space) 
 * `[Patrick et al. ICLR21]` Support-set Bottlenecks for Video-text Representation Learning. ICLR, 2021. [[paper]](https://arxiv.org/abs/2010.02824)
+* `[Qi et al. TIP21]` Semantics-Aware Spatial-Temporal Binaries for Cross-Modal Video Retrieval. IEEE Transactions on Image Processing, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9351755)
+* `[Lei et al. ARXIV21]` Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling. arXiv:2102.06183, 2021. [[paper]](https://arxiv.org/abs/2102.06183)
+
 
 ### 2020
 * `[Yang et al. SIGIR20]` Tree-Augmented Cross-Modal Encoding for Complex-Query Video Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3397271.3401151) 
