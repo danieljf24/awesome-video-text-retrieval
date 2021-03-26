@@ -57,6 +57,7 @@ Markdown format:
 * `[Wray et al. CVPR21]` On Semantic Similarity in Video Retrieval. CVPR, 2021. [[paper]](https://arxiv.org/abs/2103.10095) [[code]](https://github.com/mwray/Semantic-Video-Retrieval)
 * `[Patrick et al. ICLR21]` Support-set Bottlenecks for Video-text Representation Learning. ICLR, 2021. [[paper]](https://arxiv.org/abs/2010.02824)
 * `[Qi et al. TIP21]` Semantics-Aware Spatial-Temporal Binaries for Cross-Modal Video Retrieval. IEEE Transactions on Image Processing, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9351755)
+* `[Dong et al. NEUCOM21]` Multi-level Alignment Network for Domain Adaptive Cross-modal Retrieval. Neurocomputing, 2020. [[paper]](http://danieljf24.github.io/pubs/papers/2021neurocom.pdf)
 
 
 ### 2020
