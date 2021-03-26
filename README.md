@@ -37,6 +37,7 @@ Markdown format:
 - [hgr](https://github.com/cshizhe/hgr_v2t)
 - [coot](https://github.com/gingsi/coot-videotext)
 - [mmt](https://github.com/gabeur/mmt)
+- [ClipBERT](https://github.com/jayleicn/ClipBERT)
 
 #### TensorFlow
 - [jsfusion](https://github.com/yj-yu/lsmdc)
@@ -51,10 +52,11 @@ Markdown format:
 ## Papers
 
 ### 2021
-* `[Dong et al. TPAMI21]` Dual Encoding for Video Retrieval by Text. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [[paper]](https://arxiv.org/abs/2009.05381) [[code]](https://github.com/danieljf24/hybrid_space) 
+* `[Dong et al. TPAMI21]` On Semantic Similarity in Video Retrieval. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [[paper]](https://arxiv.org/abs/2009.05381) [[code]](https://github.com/danieljf24/hybrid_space)
+* `[Lei et al. CVPR21]` Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling. CVPR, 2021. [[paper]](https://arxiv.org/abs/2102.06183) [[code]](https://github.com/jayleicn/ClipBERT)
+* `[Wray et al. CVPR21]` On Semantic Similarity in Video Retrieval. CVPR, 2021. [[paper]](https://arxiv.org/abs/2103.10095) [[code]](https://github.com/mwray/Semantic-Video-Retrieval)
 * `[Patrick et al. ICLR21]` Support-set Bottlenecks for Video-text Representation Learning. ICLR, 2021. [[paper]](https://arxiv.org/abs/2010.02824)
 * `[Qi et al. TIP21]` Semantics-Aware Spatial-Temporal Binaries for Cross-Modal Video Retrieval. IEEE Transactions on Image Processing, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9351755)
-* `[Lei et al. ARXIV21]` Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling. arXiv:2102.06183, 2021. [[paper]](https://arxiv.org/abs/2102.06183)
 
 
 ### 2020
