@@ -53,6 +53,7 @@ Markdown format:
 
 ### 2021
 * `[Dong et al. TPAMI21]` Dual Encoding for Video Retrieval by Text. IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [[paper]](https://arxiv.org/abs/2009.05381) [[code]](https://github.com/danieljf24/hybrid_space)
+* `[Wei et al. TPAMI21]` Universal Weighting Metric Learning for Cross-Modal Retrieval.  IEEE Transactions on Pattern Analysis and Machine Intelligence, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9454290)
 * `[Lei et al. CVPR21]` Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling. CVPR, 2021. [[paper]](https://arxiv.org/abs/2102.06183) [[code]](https://github.com/jayleicn/ClipBERT)
 * `[Wray et al. CVPR21]` On Semantic Similarity in Video Retrieval. CVPR, 2021. [[paper]](https://arxiv.org/abs/2103.10095) [[code]](https://github.com/mwray/Semantic-Video-Retrieval)
 * `[Chen et al. CVPR21]` Learning the Best Pooling Strategy for Visual Semantic Embedding. CVPR, 2021. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_the_Best_Pooling_Strategy_for_Visual_Semantic_Embedding_CVPR_2021_paper.pdf)[[code]](https://github.com/woodfrog/vse_infty)
@@ -60,19 +61,19 @@ Markdown format:
 * `[Miech et al. CVPR21]` Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers. CVPR, 2021. [[paper]](https://arxiv.org/pdf/2103.16553.pdf)
 * `[Patrick et al. ICLR21]` Support-set Bottlenecks for Video-text Representation Learning. ICLR, 2021. [[paper]](https://arxiv.org/abs/2010.02824)
 * `[Qi et al. TIP21]` Semantics-Aware Spatial-Temporal Binaries for Cross-Modal Video Retrieval. IEEE Transactions on Image Processing, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9351755)
-* `[Dong et al. NEUCOM21]` Multi-level Alignment Network for Domain Adaptive Cross-modal Retrieval. Neurocomputing, 2021. [[paper]](http://danieljf24.github.io/pubs/papers/2021neurocom.pdf)
-* `[Rouditchenko et al. INTERSPEECH21]` AVLnet: Learning Audio-Visual Language Representations from Instructional Videos. Interspeech, 2021. [[paper]](https://arxiv.org/abs/2006.09199) [[code]](https://github.com/roudimit/AVLnet)
+* `[Dong et al. NEUCOM21]` Multi-level Alignment Network for Domain Adaptive Cross-modal Retrieval. Neurocomputing, 2021. [[paper]](http://danieljf24.github.io/pubs/papers/2021neurocom.pdf) [[code]](https://github.com/Recmoon/MAN)
+* `[Song et al. TMM21]` Spatial-temporal Graphs for Cross-modal Text2Video Retrieval. IEEE Transactions on Multimedia, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9463746/)
+* `[Jin et al. SIGIR21]` Hierarchical Cross-Modal Graph Consistency Learning for Video-Text Retrieval. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462974)
+* `[He et al. SIGIR21]`Improving Video Retrieval by Adaptive Margin. SIGIR, 2020. [[paper]](https://dl.acm.org/doi/abs/10.1145/3404835.3462927)
+* `[Dzabraev et al. CVPRW21]` MDMMT:Multidomain Multimodal Transformer for Video Retrieval. CVPR Workshops, 2021.[[paper]](https://arxiv.org/pdf/2103.10699.pdf)
+* `[Hao et al. ICME21]`What Matters: Attentive and Relational Feature Aggregation Network for Video-Text Retrieval. ICME, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9428325)
+* `[Wu et al. ICME21]`Multi-Dimensional Attentive Hierarchical Graph Pooling Network for Video-Text Retrieval. ICME, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9428153)
 * `[Ioana et al. ARXIV21]` TEACHTEXT: CrossModal Generalized Distillation for Text-Video Retrieval. arXiv:2104.08271, 2021. [[paper]](https://arxiv.org/abs/2104.08271)
 * `[Bian et al. ARXIV21]` Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval. arXiv:2104.00650, 2021. [[paper]](https://arxiv.org/pdf/2104.00650.pdf)[[code]](https://github.com/m-bain/frozen-in-time)
 
 * `[Liu et al. ARXIV21]` HiT: Hierarchical Transformer with Momentum Contrast for Video-Text Retrieval. arXiv:2103.15049, 2021. [[paper]](https://arxiv.org/pdf/2103.15049.pdf)
 * `[Akbari et al. ARXIV21]` VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text. arXiv:2104.11178 , 2021. [[paper]](https://arxiv.org/pdf/2104.11178.pdf) [[code]](https://github.com/tensorflow/models)
 * `[Fang et al. ARXIV21]` CLIP2Video: Mastering Video-Text Retrieval via Image CLIP. arXiv:2106.11097, 2021. [[paper]](https://arxiv.org/pdf/2106.11097.pdf) [[code]](https://github.com/CryhanFang/CLIP2Video)
-* `[Dzabraev et al. ARXIV21]` MDMMT:Multidomain Multimodal Transformer for Video Retrieval. arXiv:2103.10699, 2021.[[paper]](https://arxiv.org/pdf/2103.10699.pdf)
-
-
-
-
 
 
 ### 2020
@@ -123,8 +124,8 @@ Markdown format:
 
 
 ### Other Related
+* `[Rouditchenko et al. INTERSPEECH21]` AVLnet: Learning Audio-Visual Language Representations from Instructional Videos. Interspeech, 2021. [[paper]](https://arxiv.org/abs/2006.09199) [[code]](https://github.com/roudimit/AVLnet)
 * `[Li et al. arXiv20]` Learning Spatiotemporal Features via Video and Text Pair Discrimination. arXiv preprint arXiv:2001.05691, 2020. [[paper]](https://arxiv.org/abs/2001.05691) 
-* `[Miech et al. CVPR20]` End-to-End Learning of Visual Representations from Uncurated Instructional Videos. CVPR, 2020. [[paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Miech_End-to-End_Learning_of_Visual_Representations_From_Uncurated_Instructional_Videos_CVPR_2020_paper.pdf)
 
 
 
