@@ -52,8 +52,9 @@ Markdown format:
 ### 2022
 
 - `[Dong et al. TCSVT22]` Reading-strategy Inspired Visual Representation Learning for Text-to-Video Retrieval. TCSVT, 2022. [[paper]]( https://arxiv.org/abs/2201.09168) [[code]](https://github.com/LiJiaBei-7/rivrl)
-
+- `[Ge et al. CVPR22]`Bridging Video-text Retrieval with Multiple Choice Questions. CVPR, 2022. [[paper]]( https://dl.acm.org/doi/10.1145/3483381) [[code]](https://github.com/TencentARC/MCQ)
 - `[Han et al. CVPR22]`Temporal Alignment Networks for Long-term Video. CVPR.2022. [[paper]]( https://www.robots.ox.ac.uk/~vgg/publications/2022/Han22a/han22a.pdf) [[code]](https://github.com/TengdaHan/TemporalAlignNet)
+- `[Gorti et al. CVPR22]`X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval. [[paper]](https://arxiv.org/pdf/2203.15086.pdf) [[code]](https://github.com/layer6ai-labs/xpool)
 - `[Gabeur et al. WACV22]`   Masking Modalities for Cross-modal Video Retrieval. WACV, 2022. [[paper]]( https://openaccess.thecvf.com/content/WACV2022/papers/Gabeur_Masking_Modalities_for_Cross-Modal_Video_Retrieval_WACV_2022_paper.pdf) 
 - `[Cao et al. AAAI22]` Visual Consensus Modeling for Video-Text Retrieval.  AAAI, 2022. [[paper]]( https://www.aaai.org/AAAI22Papers/AAAI-12427.CaoS.pdf) [[code]](https://github.com/sqiangcao99/VCM)
 - `[Wang et al. TMM]` Many Hands Make Light Work: Transferring Knowledge from Auxiliary Tasks for Video-Text Retrieval.  IEEE Transactions on Multimedia, 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9707645/metrics#metrics) 
