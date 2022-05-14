@@ -96,6 +96,7 @@ Markdown format:
 * `[Fang et al. ARXIV21]` CLIP2Video: Mastering Video-Text Retrieval via Image CLIP. arXiv:2106.11097, 2021. [[paper]](https://arxiv.org/pdf/2106.11097.pdf) [[code]](https://github.com/CryhanFang/CLIP2Video)
 * `[Luo et al. ARXIV21]` CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval. arXiv:2104.08860, 2021. [[paper]](https://arxiv.org/pdf/2104.08860.pdf)[[code]](https://github.com/ArrowLuo/CLIP4Clip)
 * `[Cheng et al. ARXIV21]` Improving Video-Text Retrieval by Multi-Stream Corpus Alignment and Dual Softmax Loss. arXiv:2109.04290, 2021. [[paper]](https://arxiv.org/pdf/2109.04290.pdf)[[code]](https://github.com/starmemda/CAMoE)
+* `[Li et al. ARXIV21]` Align and Prompt: Video-and-Language Pre-training with Entity Prompts. arXiv:2112.09583, 2021. [[paper]](https://arxiv.org/pdf/2112.09583.pdf)[[code]](https://github.com/salesforce/ALPRO)
 
 
 ### 2020
