@@ -50,6 +50,7 @@ Markdown format:
 
 ## Papers
 ### 2022
+- `[Dongxu et al. CVPR22]` Align and Prompt: Video-and-Language Pre-training with Entity Prompts, CVPR, 2022. [[paper]](https://arxiv.org/pdf/2112.09583.pdf) [[code]]([link](https://github.com/salesforce/ALPRO))
 - `[Dong et al. TCSVT22]` Reading-strategy Inspired Visual Representation Learning for Text-to-Video Retrieval. TCSVT, 2022. [[paper]]( https://arxiv.org/abs/2201.09168) [[code]](https://github.com/LiJiaBei-7/rivrl)
 - `[Shvetsova et al. CVPR22]`Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval. CVPR, 2022. [[paper]]( https://arxiv.org/abs/2112.04446) [[code]](https://github.com/ninatu/everything_at_once)
 - `[Ge et al. CVPR22]`Bridging Video-text Retrieval with Multiple Choice Questions. CVPR, 2022. [[paper]]( https://dl.acm.org/doi/10.1145/3483381) [[code]](https://github.com/TencentARC/MCQ)
