@@ -50,11 +50,12 @@ Markdown format:
 
 ## Papers
 ### 2022
-
 - `[Dong et al. TCSVT22]` Reading-strategy Inspired Visual Representation Learning for Text-to-Video Retrieval. TCSVT, 2022. [[paper]]( https://arxiv.org/abs/2201.09168) [[code]](https://github.com/LiJiaBei-7/rivrl)
+- `[Shvetsova et al. CVPR22]`Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval. CVPR, 2022. [[paper]]( https://arxiv.org/abs/2112.04446) [[code]](https://github.com/ninatu/everything_at_once)
 - `[Ge et al. CVPR22]`Bridging Video-text Retrieval with Multiple Choice Questions. CVPR, 2022. [[paper]]( https://dl.acm.org/doi/10.1145/3483381) [[code]](https://github.com/TencentARC/MCQ)
 - `[Han et al. CVPR22]`Temporal Alignment Networks for Long-term Video. CVPR.2022. [[paper]]( https://www.robots.ox.ac.uk/~vgg/publications/2022/Han22a/han22a.pdf) [[code]](https://github.com/TengdaHan/TemporalAlignNet)
 - `[Gorti et al. CVPR22]`X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval. [[paper]](https://arxiv.org/pdf/2203.15086.pdf) [[code]](https://github.com/layer6ai-labs/xpool)
+- `[Liu et al. ACL22]` Cross-Modal Discrete Representation Learning. ACL, 2022. [[paper]]( https://aclanthology.org/2022.acl-long.215/)
 - `[Gabeur et al. WACV22]`   Masking Modalities for Cross-modal Video Retrieval. WACV, 2022. [[paper]]( https://openaccess.thecvf.com/content/WACV2022/papers/Gabeur_Masking_Modalities_for_Cross-Modal_Video_Retrieval_WACV_2022_paper.pdf) 
 - `[Cao et al. AAAI22]` Visual Consensus Modeling for Video-Text Retrieval.  AAAI, 2022. [[paper]]( https://www.aaai.org/AAAI22Papers/AAAI-12427.CaoS.pdf) [[code]](https://github.com/sqiangcao99/VCM)
 - `[Wang et al. TMM]` Many Hands Make Light Work: Transferring Knowledge from Auxiliary Tasks for Video-Text Retrieval.  IEEE Transactions on Multimedia, 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9707645/metrics#metrics) 
@@ -70,6 +71,7 @@ Markdown format:
 * `[Wang et al. CVPR21]` T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval. CVPR, 2021. [[paper]](https://arxiv.org/abs/2104.10054)
 * `[Miech et al. CVPR21]` Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers. CVPR, 2021. [[paper]](https://arxiv.org/pdf/2103.16553.pdf)
 * `[Liu et al. CVPR21]` Adaptive Cross-Modal Prototypes for Cross-Domain Visual-Language Retrieval. CVPR, 2021. [[paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Adaptive_Cross-Modal_Prototypes_for_Cross-Domain_Visual-Language_Retrieval_CVPR_2021_paper.pdf)
+* `[Chen et al. ICCV21]` Multimodal Clustering Networks for Self-Supervised Learning from Unlabeled Videos. ICCV, 2021. [[paper]](https://arxiv.org/abs/2104.12671)
 * `[Ioana et al. ICCV21]` TEACHTEXT: CrossModal Generalized Distillation for Text-Video Retrieval. ICCV, 2021. [[paper]](https://arxiv.org/abs/2104.08271)[[code]](https://github.com/albanie/collaborative-experts)
 * `[Yang et al. ICCV21]` TACo: Token-aware Cascade Contrastive Learning for Video-Text Alignment. ICCV, 2021. [[paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yang_TACo_Token-Aware_Cascade_Contrastive_Learning_for_Video-Text_Alignment_ICCV_2021_paper.pdf)
 * `[Bian et al. ICCV21]` Frozen in Time: A Joint Video and Image Encoder for End-to-End Retrieval. ICCV, 2021. [[paper]](https://arxiv.org/pdf/2104.00650.pdf)[[code]](https://github.com/m-bain/frozen-in-time)
