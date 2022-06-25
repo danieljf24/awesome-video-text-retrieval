@@ -52,7 +52,7 @@ Markdown format:
 ### 2022
 - `[Dong et al. TCSVT22]` Reading-strategy Inspired Visual Representation Learning for Text-to-Video Retrieval. TCSVT, 2022. [[paper]]( https://arxiv.org/abs/2201.09168) [[code]](https://github.com/LiJiaBei-7/rivrl)
 - `[Shvetsova et al. CVPR22]`Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval. CVPR, 2022. [[paper]]( https://arxiv.org/abs/2112.04446) [[code]](https://github.com/ninatu/everything_at_once)
-- `[Ge et al. CVPR22]`Bridging Video-text Retrieval with Multiple Choice Questions. CVPR, 2022. [[paper]]( https://dl.acm.org/doi/10.1145/3483381) [[code]](https://github.com/TencentARC/MCQ)
+- `[Ge et al. CVPR22]`Bridging Video-text Retrieval with Multiple Choice Questions. CVPR, 2022. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ge_Bridging_Video-Text_Retrieval_With_Multiple_Choice_Questions_CVPR_2022_paper.pdf) [[code]](https://github.com/TencentARC/MCQ)
 - `[Han et al. CVPR22]`Temporal Alignment Networks for Long-term Video. CVPR.2022. [[paper]]( https://www.robots.ox.ac.uk/~vgg/publications/2022/Han22a/han22a.pdf) [[code]](https://github.com/TengdaHan/TemporalAlignNet)
 - `[Gorti et al. CVPR22]`X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval. [[paper]](https://arxiv.org/pdf/2203.15086.pdf) [[code]](https://github.com/layer6ai-labs/xpool)
 - `[Liu et al. ACL22]` Cross-Modal Discrete Representation Learning. ACL, 2022. [[paper]]( https://aclanthology.org/2022.acl-long.215/)
