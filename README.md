@@ -60,6 +60,7 @@ Markdown format:
 - `[Cao et al. AAAI22]` Visual Consensus Modeling for Video-Text Retrieval.  AAAI, 2022. [[paper]]( https://www.aaai.org/AAAI22Papers/AAAI-12427.CaoS.pdf) [[code]](https://github.com/sqiangcao99/VCM)
 - `[Wang et al. TMM]` Many Hands Make Light Work: Transferring Knowledge from Auxiliary Tasks for Video-Text Retrieval.  IEEE Transactions on Multimedia, 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9707645/metrics#metrics) 
 - `[Song et al. TOMM22]`  Adversarial Multi-Grained Embedding Network for Cross-Modal Text-Video Retrieval. TOMM, 2022. [[paper]]( https://dl.acm.org/doi/10.1145/3483381) 
+- `[Bai et al. ARXIV22]` LaT: Latent Translation with Cycle-Consistency for Video-Text Retrieval. arXiv:2207.04858, 2022. [[paper]](https://arxiv.org/pdf/2207.04858.pdf)
 
 
 ### 2021
