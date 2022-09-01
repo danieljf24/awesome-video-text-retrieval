@@ -50,19 +50,28 @@ Markdown format:
 
 ## Papers
 ### 2022
-- `[Li et al. CVPR22]` Align and Prompt: Video-and-Language Pre-training with Entity Prompts, CVPR, 2022. [[paper]](https://arxiv.org/pdf/2112.09583.pdf) [[code]](https://github.com/salesforce/ALPRO)
+- `[Dong et al. ACMMM22]` Partially Relevant Video Retrieval. ACM Multimedia, 2022. [[homepage]](http://danieljf24.github.io/prvr/) [[paper]](https://arxiv.org/abs/2208.12510)  [[code]](https://github.com/HuiGuanLab/ms-sl) `A new text-to-video retrieval subtask`
+- `[Wang et al. ACMMM22]` Cross-Lingual Cross-Modal Retrieval with Noise-Robust Learning. ACM Multimedia, 2022. [[paper]](https://arxiv.org/abs/2208.12526)  [[code]](https://github.com/HuiGuanLab/nrccr)
+- `[Wang et al. ACMMM22]` Learn to Understand Negation in Video Retrieval. ACM Multimedia, 2022. [[paper]](https://arxiv.org/abs/2205.00132)  [[code]](https://github.com/ruc-aimc-lab/nt2vr)
+- `[Falcon et al. ACMMM22]` A Feature-space Multimodal Data Augmentation Technique for Text-video Retrieval. ACM Multimedia, 2022. [[paper]](https://arxiv.org/abs/2208.02080)  [[code]](https://github.com/aranciokov/FSMMDA_VideoRetrieval)
+- `[Ma et al. ACMMM22]` X-CLIP: End-to-End Multi-grained Contrastive Learning for Video-Text Retrieval. ACM Multimedia, 2022. [[paper]](https://arxiv.org/abs/2207.07285) 
+- `[Hu et al. ECCV22]` Lightweight Attentional Feature Fusion: A New Baseline for Text-to-Video Retrieval.  ECCV, 2022. [[paper]](https://arxiv.org/abs/2112.01832)  [[code]](https://github.com/ruc-aimc-lab/laff)
+- `[Liu et al. ECCV22]` TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval.  ECCV, 2022. [[paper]]( https://arxiv.org/abs/2207.07852)  [[code]](https://github.com/yuqi657/ts2_net)
 - `[Dong et al. TCSVT22]` Reading-strategy Inspired Visual Representation Learning for Text-to-Video Retrieval. TCSVT, 2022. [[paper]]( https://arxiv.org/abs/2201.09168) [[code]](https://github.com/LiJiaBei-7/rivrl)
+- `[Li et al. CVPR22]` Align and Prompt: Video-and-Language Pre-training with Entity Prompts, CVPR, 2022. [[paper]](https://arxiv.org/pdf/2112.09583.pdf) [[code]](https://github.com/salesforce/ALPRO)
 - `[Shvetsova et al. CVPR22]`Everything at Once -- Multi-modal Fusion Transformer for Video Retrieval. CVPR, 2022. [[paper]]( https://arxiv.org/abs/2112.04446) [[code]](https://github.com/ninatu/everything_at_once)
 - `[Ge et al. CVPR22]`Bridging Video-text Retrieval with Multiple Choice Questions. CVPR, 2022. [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Ge_Bridging_Video-Text_Retrieval_With_Multiple_Choice_Questions_CVPR_2022_paper.pdf) [[code]](https://github.com/TencentARC/MCQ)
 - `[Han et al. CVPR22]`Temporal Alignment Networks for Long-term Video. CVPR.2022. [[paper]]( https://www.robots.ox.ac.uk/~vgg/publications/2022/Han22a/han22a.pdf) [[code]](https://github.com/TengdaHan/TemporalAlignNet)
-- `[Gorti et al. CVPR22]`X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval. [[paper]](https://arxiv.org/pdf/2203.15086.pdf) [[code]](https://github.com/layer6ai-labs/xpool)
+- `[Gorti et al. CVPR22]` X-Pool: Cross-Modal Language-Video Attention for Text-Video Retrieval. [[paper]](https://arxiv.org/pdf/2203.15086.pdf) [[code]](https://github.com/layer6ai-labs/xpool)
+- `[Liu et al. SIGIR22]` Animating Images to Transfer CLIP for Video-Text Retrieval. [[paper]](https://dl.acm.org/doi/abs/10.1145/3477495.3531776?casa_token=-9VDlX-Xbb0AAAAA:ime9df6nyBsml_E-5oBuwEriZEo0-iNtXfC-dwX7NedlWKvYGdtp31rk08-XEtmgQlzX7-0Qyz8g)
 - `[Liu et al. ACL22]` Cross-Modal Discrete Representation Learning. ACL, 2022. [[paper]]( https://aclanthology.org/2022.acl-long.215/)
 - `[Gabeur et al. WACV22]`   Masking Modalities for Cross-modal Video Retrieval. WACV, 2022. [[paper]]( https://openaccess.thecvf.com/content/WACV2022/papers/Gabeur_Masking_Modalities_for_Cross-Modal_Video_Retrieval_WACV_2022_paper.pdf) 
 - `[Cao et al. AAAI22]` Visual Consensus Modeling for Video-Text Retrieval.  AAAI, 2022. [[paper]]( https://www.aaai.org/AAAI22Papers/AAAI-12427.CaoS.pdf) [[code]](https://github.com/sqiangcao99/VCM)
-- `[Liu et al. ECCV22]` TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval.  ECCV, 2022. [[paper]]( https://arxiv.org/abs/2207.07852)  [[code]](https://github.com/yuqi657/ts2_net)
 - `[Wang et al. TMM]` Many Hands Make Light Work: Transferring Knowledge from Auxiliary Tasks for Video-Text Retrieval.  IEEE Transactions on Multimedia, 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9707645/metrics#metrics) 
 - `[Song et al. TOMM22]`  Adversarial Multi-Grained Embedding Network for Cross-Modal Text-Video Retrieval. TOMM, 2022. [[paper]]( https://dl.acm.org/doi/10.1145/3483381) 
 - `[Bai et al. ARXIV22]` LaT: Latent Translation with Cycle-Consistency for Video-Text Retrieval. arXiv:2207.04858, 2022. [[paper]](https://arxiv.org/pdf/2207.04858.pdf)
+- `[Bain et al. ARXIV22]` A CLIP-Hitchhiker's Guide to Long Video Retrieval. arXiv:2205.08508, 2022. [[paper]](https://arxiv.org/abs/2205.08508)
+- `[Gao et al. ARXIV22]` CLIP2TV: Align, Match and Distill for Video-Text Retrieval. arXiv:2111.05610, 2022. [[paper]](https://arxiv.org/abs/2111.05610)
 
 
 ### 2021
