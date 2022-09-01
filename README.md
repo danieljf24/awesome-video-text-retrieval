@@ -61,7 +61,7 @@ Markdown format:
 - `[Liu et al. ECCV22]` TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval.  ECCV, 2022. [[paper]]( https://arxiv.org/abs/2207.07852)  [[code]](https://github.com/yuqi657/ts2_net)
 - `[Wang et al. TMM]` Many Hands Make Light Work: Transferring Knowledge from Auxiliary Tasks for Video-Text Retrieval.  IEEE Transactions on Multimedia, 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9707645/metrics#metrics) 
 - `[Song et al. TOMM22]`  Adversarial Multi-Grained Embedding Network for Cross-Modal Text-Video Retrieval. TOMM, 2022. [[paper]]( https://dl.acm.org/doi/10.1145/3483381) 
-- `[Zeng et al. ARXIV22]`  Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language. ARXIV, 2022. [[paper]]( https://arxiv.org/abs/2204.00598) [[code]](https://github.com/google-research/google-research/tree/master/socraticmodels)
+- `[Bai et al. ARXIV22]` LaT: Latent Translation with Cycle-Consistency for Video-Text Retrieval. arXiv:2207.04858, 2022. [[paper]](https://arxiv.org/pdf/2207.04858.pdf)
 
 
 ### 2021
