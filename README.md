@@ -69,6 +69,7 @@ Markdown format:
 - `[Liu et al. ACL22]` Cross-Modal Discrete Representation Learning. ACL, 2022. [[paper]]( https://aclanthology.org/2022.acl-long.215/)
 - `[Gabeur et al. WACV22]`   Masking Modalities for Cross-modal Video Retrieval. WACV, 2022. [[paper]]( https://openaccess.thecvf.com/content/WACV2022/papers/Gabeur_Masking_Modalities_for_Cross-Modal_Video_Retrieval_WACV_2022_paper.pdf) 
 - `[Cao et al. AAAI22]` Visual Consensus Modeling for Video-Text Retrieval.  AAAI, 2022. [[paper]]( https://www.aaai.org/AAAI22Papers/AAAI-12427.CaoS.pdf) [[code]](https://github.com/sqiangcao99/VCM)
+- `[Cheng et al. AAAI22]` Improving Video-Text Retrieval by Multi-Stream Corpus Alignment and Dual Softmax Loss. AAAI, 2022. [[paper]](https://arxiv.org/pdf/2109.04290.pdf)[[code]](https://github.com/starmemda/CAMoE)
 - `[Wang et al. TMM22]` Many Hands Make Light Work: Transferring Knowledge from Auxiliary Tasks for Video-Text Retrieval.  IEEE Transactions on Multimedia, 2022. [[paper]](https://ieeexplore.ieee.org/abstract/document/9707645/metrics#metrics) 
 - `[Park et al. NAACL22]` Exposing the Limits of Video-Text Models through Contrast Sets. NAACL, 2022. [[paper]](https://aclanthology.org/2022.naacl-main.261/) [[code]](https://github.com/jamespark3922/video-lang-contrast-set) 
 - `[Song et al. TOMM22]`  Adversarial Multi-Grained Embedding Network for Cross-Modal Text-Video Retrieval. TOMM, 2022. [[paper]]( https://dl.acm.org/doi/10.1145/3483381) 
@@ -113,7 +114,6 @@ Markdown format:
 * `[Akbari et al. ARXIV21]` VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text. arXiv:2104.11178 , 2021. [[paper]](https://arxiv.org/pdf/2104.11178.pdf) [[code]](https://github.com/tensorflow/models)
 * `[Fang et al. ARXIV21]` CLIP2Video: Mastering Video-Text Retrieval via Image CLIP. arXiv:2106.11097, 2021. [[paper]](https://arxiv.org/pdf/2106.11097.pdf) [[code]](https://github.com/CryhanFang/CLIP2Video)
 * `[Luo et al. ARXIV21]` CLIP4Clip: An Empirical Study of CLIP for End to End Video Clip Retrieval. arXiv:2104.08860, 2021. [[paper]](https://arxiv.org/pdf/2104.08860.pdf)[[code]](https://github.com/ArrowLuo/CLIP4Clip)
-* `[Cheng et al. ARXIV21]` Improving Video-Text Retrieval by Multi-Stream Corpus Alignment and Dual Softmax Loss. arXiv:2109.04290, 2021. [[paper]](https://arxiv.org/pdf/2109.04290.pdf)[[code]](https://github.com/starmemda/CAMoE)
 * `[Li et al. ARXIV21]` Align and Prompt: Video-and-Language Pre-training with Entity Prompts. arXiv:2112.09583, 2021. [[paper]](https://arxiv.org/pdf/2112.09583.pdf)[[code]](https://github.com/salesforce/ALPRO)
 
 
