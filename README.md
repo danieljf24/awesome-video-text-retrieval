@@ -75,6 +75,7 @@ Markdown format:
 - `[Bai et al. ARXIV22]` LaT: Latent Translation with Cycle-Consistency for Video-Text Retrieval. arXiv:2207.04858, 2022. [[paper]](https://arxiv.org/pdf/2207.04858.pdf)
 - `[Bain et al. ARXIV22]` A CLIP-Hitchhiker's Guide to Long Video Retrieval. arXiv:2205.08508, 2022. [[paper]](https://arxiv.org/abs/2205.08508)
 - `[Gao et al. ARXIV22]` CLIP2TV: Align, Match and Distill for Video-Text Retrieval. arXiv:2111.05610, 2022. [[paper]](https://arxiv.org/abs/2111.05610)
+- `[Jiang et al. ARXIV22]` Tencent Text-Video Retrieval: Hierarchical Cross-Modal Interactions with Multi-Level Representations. 	arXiv:2204.03382, 2022. [[paper]](https://arxiv.org/abs/2204.03382)
 
 
 ### 2021
