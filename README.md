@@ -50,6 +50,7 @@ Markdown format:
 
 ## Papers
 ### 2022
+- `[Jin et al. NeurIPS22]` Expectation-Maximization Contrastive Learning for Compact Video-and-Language Representations. NeurIPS, 2022. [[paper]](https://arxiv.org/abs/2211.11427)  [[code]](https://github.com/jpthu17/EMCL)
 - `[Dong et al. ACMMM22]` Partially Relevant Video Retrieval. ACM Multimedia, 2022. [[homepage]](http://danieljf24.github.io/prvr/) [[paper]](https://arxiv.org/abs/2208.12510)  [[code]](https://github.com/HuiGuanLab/ms-sl) `A new text-to-video retrieval subtask`
 - `[Wang et al. ACMMM22]` Cross-Lingual Cross-Modal Retrieval with Noise-Robust Learning. ACM Multimedia, 2022. [[paper]](https://arxiv.org/abs/2208.12526)  [[code]](https://github.com/HuiGuanLab/nrccr)
 - `[Wang et al. ACMMM22]` Learn to Understand Negation in Video Retrieval. ACM Multimedia, 2022. [[paper]](https://arxiv.org/abs/2205.00132)  [[code]](https://github.com/ruc-aimc-lab/nt2vr)
