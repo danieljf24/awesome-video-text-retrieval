@@ -50,6 +50,8 @@ Markdown format:
 
 ## Papers
 ### 2023
+- `[Satar et al. BMVC23]` Towards Debiasing Frame Length Bias in Text-Video Retrieval via Causal Intervention. BMVC, 2023. [[paper]]
+(https://arxiv.org/abs/2309.09311)
 - `[Pei et al. CVPR23]` CLIPPING: Distilling CLIP-Based Models with a Student Base for Video-Language Retrieval. CVPR, 2023. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Pei_CLIPPING_Distilling_CLIP-Based_Models_With_a_Student_Base_for_Video-Language_CVPR_2023_paper.pdf) 
 - `[Li et al. CVPR23]` SViTT: Temporal Learning of Sparse Video-Text Transformers. CVPR, 2023. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_SViTT_Temporal_Learning_of_Sparse_Video-Text_Transformers_CVPR_2023_paper.pdf) [[code]](http://svcl.ucsd.edu/projects/svitt/)
 - `[Wu et al. CVPR23]` Cap4Video: What Can Auxiliary Captions Do for Text-Video Retrieval. CVPR, 2023. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wu_Cap4Video_What_Can_Auxiliary_Captions_Do_for_Text-Video_Retrieval_CVPR_2023_paper.pdf) [[code]](https://github.com/whwu95/Cap4Video)
@@ -123,6 +125,8 @@ Markdown format:
 * `[Hao et al. ICME21]`What Matters: Attentive and Relational Feature Aggregation Network for Video-Text Retrieval. ICME, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9428325)
 * `[Wu et al. ICME21]`Multi-Dimensional Attentive Hierarchical Graph Pooling Network for Video-Text Retrieval. ICME, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9428153)
 * `[Song et al. ICIP21]` Semantic-Preserving Metric Learning for Video-Text Retrieval. IEEE International Conference on Image Processing, 2021. [[paper]](https://ieeexplore.ieee.org/abstract/document/9506697)
+* `[Satar et al. ICIP21]` Semantic Role Aware Correlation Transformer for Text to Video Retrieval. ICIP, 2021. [[paper]]
+(https://arxiv.org/abs/2206.12849)
 * `[Hao et al. ICMR21]` Multi-Feature Graph Attention Network for Cross-Modal Video-Text Retrieval. ICMR, 2021. [[paper]](https://dl.acm.org/doi/pdf/10.1145/3460426.3463608)
 * `[Liu et al. ARXIV21]` HiT: Hierarchical Transformer with Momentum Contrast for Video-Text Retrieval. arXiv:2103.15049, 2021. [[paper]](https://arxiv.org/pdf/2103.15049.pdf)
 * `[Akbari et al. ARXIV21]` VATT: Transformers for Multimodal Self-Supervised Learning from Raw Video, Audio and Text. arXiv:2104.11178 , 2021. [[paper]](https://arxiv.org/pdf/2104.11178.pdf) [[code]](https://github.com/tensorflow/models)
