@@ -18,7 +18,7 @@ Markdown format:
   - [TensorFlow](#tensorflow)
   - [Others](#others)
 - [Papers](#papers)
-  - [2023](#2023) - [2022](#2022) - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [Before](#before)
+  - [2026](#2026) - [2023](#2023) - [2022](#2022) - [2021](#2021) - [2020](#2020) - [2019](#2019) - [2018](#2018) - [Before](#before)
   - [Ad-hoc Video Search](#ad-hoc-video-search)
   - [Other Related](#other-related)
 - [Datasets](#datasets)
@@ -49,6 +49,9 @@ Markdown format:
 - [Extracting CNN features from video frames by MXNet](https://github.com/xuchaoxi/video-cnn-feat)
 
 ## Papers
+### 2026
+- `[Zhu et al. ICML26]` FreeRet: MLLMs as Training-Free Retrievers. ICML, 2026. [[paper]](https://arxiv.org/abs/2509.24621) [[code]](https://github.com/MCG-NJU/FreeRet)
+
 ### 2023
 - `[Pei et al. CVPR23]` CLIPPING: Distilling CLIP-Based Models with a Student Base for Video-Language Retrieval. CVPR, 2023. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Pei_CLIPPING_Distilling_CLIP-Based_Models_With_a_Student_Base_for_Video-Language_CVPR_2023_paper.pdf) 
 - `[Li et al. CVPR23]` SViTT: Temporal Learning of Sparse Video-Text Transformers. CVPR, 2023. [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_SViTT_Temporal_Learning_of_Sparse_Video-Text_Transformers_CVPR_2023_paper.pdf) [[code]](http://svcl.ucsd.edu/projects/svitt/)
